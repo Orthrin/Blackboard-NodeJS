@@ -1,29 +1,69 @@
 {
     "Frosthold": {
-        "Yugeki": {},
-        "Toni": [
+        "Lilleru": [
             [
-                "|cffffffff|hitem:37704:0:0:0:0:0:0:0:80|h[crystallized",
-                "10-06-20",
-                "Manual Entry"
-            ],
-            [
-                "|cff0070dd|hitem:40016:0:0:0:0:0:0:0:80|h[mystic",
-                "10-06-20",
-                "Manual Entry"
+                "17-06-20",
+                "Collar of the Wyrmhunter",
+                "45150"
             ]
         ],
-        "Valanya": [
+        "Yugeki": [
             [
-                "|cffffffff|hitem:37704:0:0:0:0:0:0:0:80|h[crystallized",
-                "10-06-20",
-                "Test 2"
+                "17-06-20",
+                "Golden Saronite Dragon",
+                "45132"
+            ]
+        ],
+        "Smoobeams": {},
+        "Calpol": [
+            [
+                "18-06-20",
+                "Northern Barrier",
+                "45450"
             ],
             [
-                "|cff0070dd|hitem:40016:0:0:0:0:0:0:0:80|h[mystic",
-                "10-06-20",
-                "Manual Entry"
+                "18-06-20",
+                "Necklace of Unerring Mettle",
+                "45262"
             ]
-        ]
+        ],
+        "Saturate": {},
+        "Valanya": {},
+        "Ladoria": {},
+        "Shahor": {},
+        "Pinkextacy": [
+            [
+                "17-06-20",
+                "Grips of Chaos",
+                "45549"
+            ],
+            [
+                "17-06-20",
+                "Living Flame",
+                "45148"
+            ]
+        ],
+        "Rocknload": [
+            [
+                "17-06-20",
+                "Saronite Mesh Legguards",
+                "45143"
+            ]
+        ],
+        "Screamingowl": [
+            [
+                "17-06-20",
+                "Shoulderpads of the Monolith",
+                "45265"
+            ]
+        ],
+        "Therealcruel": [
+            [
+                "17-06-20",
+                "Grasps of Reason",
+                "45446"
+            ]
+        ],
+        "Btxbarbie": {}
     }
 }

@@ -8,5 +8,5 @@ node -v
 mkdir hello
 cd hello
 code .
-node app.js
+node app
 
