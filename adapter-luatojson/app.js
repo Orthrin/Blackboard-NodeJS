@@ -31,7 +31,7 @@ cachedDocs2 = cachedDocs2
     .replace(/  |\r\n|\n|\r|\t|\t\n/gm, "")                                   //:: remove tabs & returns
     .replace(/\=/g, ':')                                                      //:: = leri : ile degistir
     .replace(/(\[(?="))|((?<=\")(\]))/g, '')                                  //:: " den once ve sonraki [] karakterlerini si
-    .replace(/^(.*?)(?<=\},"lastRaid"\s:)|^(.*?)(?<=\},\s"lastRaid"\s:)/, '') //:: start scope
+    .replace(/^(.*?)(?<="lastRaid"\s:)|^(.*?)(?<=\s"lastRaid"\s:)/, '') //:: start scope
     .replace(/(?=\},).*$/, '}}')                                               //:: end scope
     .replace(/,(\}|\])/g, '$1')                                               //:: remove trailing comma
     .replace(/,\{/,':[')
