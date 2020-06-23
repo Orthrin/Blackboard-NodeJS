@@ -1,69 +1,30 @@
 {
     "Frosthold": {
-        "Lilleru": [
-            [
-                "17-06-20",
-                "Collar of the Wyrmhunter",
-                "45150"
-            ]
-        ],
         "Yugeki": [
             [
-                "17-06-20",
-                "Golden Saronite Dragon",
-                "45132"
-            ]
-        ],
-        "Smoobeams": {},
-        "Calpol": [
-            [
-                "18-06-20",
-                "Northern Barrier",
-                "45450"
+                "16-06-20",
+                "Bracers of the Smothering Inferno",
+                "45301"
             ],
             [
-                "18-06-20",
-                "Necklace of Unerring Mettle",
-                "45262"
+                "16-06-20",
+                "Tabard of the Ebon Blade",
+                "43155"
             ]
         ],
-        "Saturate": {},
-        "Valanya": {},
-        "Ladoria": {},
-        "Shahor": {},
-        "Pinkextacy": [
+        "Toni": [
             [
-                "17-06-20",
-                "Grips of Chaos",
-                "45549"
-            ],
-            [
-                "17-06-20",
-                "Living Flame",
-                "45148"
+                "16-06-20",
+                "Combustion Bracers",
+                "45291"
             ]
         ],
-        "Rocknload": [
+        "Angrom": [
             [
-                "17-06-20",
-                "Saronite Mesh Legguards",
-                "45143"
+                "16-06-20",
+                "Hearthstone",
+                "6948"
             ]
-        ],
-        "Screamingowl": [
-            [
-                "17-06-20",
-                "Shoulderpads of the Monolith",
-                "45265"
-            ]
-        ],
-        "Therealcruel": [
-            [
-                "17-06-20",
-                "Grasps of Reason",
-                "45446"
-            ]
-        ],
-        "Btxbarbie": {}
+        ]
     }
 }
